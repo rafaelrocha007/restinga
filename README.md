@@ -1,2 +1,2 @@
 # restinga
-Simple PHP Rest that will read your database metadata and create RESTFul api endpoints.
+Simple PHP Restful micro-framework that will read your database metadata and create RESTFul api endpoints.
